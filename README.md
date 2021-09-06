@@ -20,7 +20,7 @@
 I have also made a youtube video to display the execution:- https://youtu.be/3bxGHYOeNZA
 
 # Authors
-### Allena Venkata Sai Abhishek
+### Genti Sreeja
 
 # License
 ```diff
